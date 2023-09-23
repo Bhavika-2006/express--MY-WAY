@@ -1,6 +1,6 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
-  Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org). Aritificial intelligence is the made end game guys.
+  Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org). Aritificial intelligence is the main end game guys.
 
   [![NPM Version][npm-version-image]][npm-url]
   [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
